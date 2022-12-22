@@ -1,2 +1,4 @@
-public class MyTest(){
+package com.shop;
+
+public class MyTest{
 }
